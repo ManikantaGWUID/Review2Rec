@@ -15,9 +15,9 @@ Project Link: https://github.com/ManikantaGWUID/Review2Rec
 
 ## Initial Work:
 1. Working on Json file which has the complete reviewText
-2. did some preprocessing and filtered the reviews based on their usefulness
-3. filtered based on the number of times items reviewed
-4. done some basic processing of text(removal of stop words)
+2. Some Preprocessing and Reviews filtering based on the usefulness is been done
+3. Filtered based on the number of times items reviewed
+4. Done some basic processing of text(removal of stop words)
 
 ### Link to the dataset:
 https://www.kaggle.com/datasets/bharadwaj6/kindle-reviews/data?select=kindle_reviews.csv
