@@ -7,10 +7,10 @@ Custom Project which is a recommendation system on the dataset which was provide
 Github
 Project Link: https://github.com/ManikantaGWUID/Review2Rec
 
-Name	            User Name
-Manikanta Allanki	ManikantaGWUID
-Shrishail Terni	    ShriGWU
-Shashank Boppana	G33584567 Shashank GWU
+Name	            User Name<br>
+Manikanta Allanki	ManikantaGWUID<br>
+Shrishail Terni	    ShriGWU<br>
+Shashank Boppana	G33584567 Shashank GWU<br>
 
 Initial Work:
 1. Working on Json file which has the complete reviewText
